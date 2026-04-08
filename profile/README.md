@@ -1,4 +1,4 @@
-# RNCSoftware
+# RNCSoftware  [![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rncsoftware)
 
 **Precision software tools for real-time systems engineers and laboratory automation specialists.**
 
