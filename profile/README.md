@@ -1,6 +1,3 @@
-# .github
-RNCSoftware
-
 # RNCSoftware
 
 **Precision software tools for real-time systems engineers and laboratory automation specialists.**
